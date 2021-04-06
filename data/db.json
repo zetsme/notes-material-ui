@@ -1,0 +1,69 @@
+{
+  "notes": [
+    {
+      "title": "Sport Title",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ea in et ullam, iure dolores veritatis excepturi nostrum officia a quidem molestias quaerat voluptatibus saepe doloremque facilis ipsum dolor at nemo, illo ducimus quod labore cupiditate! Iusto explicabo fugiat iure.",
+      "category": "sport",
+      "image": "https://images.unsplash.com/photo-1502014822147-1aedfb0676e0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80",
+      "enter your note": "d",
+      "date": "05.04.2021",
+      "id": 6
+    },
+    {
+      "title": "Some random title for City",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt similique nihil veniam adipisci reiciendis? Neque temporibus obcaecati architecto repudiandae quis porro beatae commodi quidem debitis corporis distinctio deserunt provident, dolorem perspiciatis eum placeat quia illo incidunt, ipsum est. Rem, blanditiis.",
+      "category": "city",
+      "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1413&q=80",
+      "date": "06.04.2021",
+      "id": 7
+    },
+    {
+      "title": "My new Title",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores ex sed asperiores, sequi voluptatem, non ad cumque rerum libero ullam ipsa minima saepe recusandae quidem, nihil perspiciatis nulla unde alias officia voluptate. Unde ea voluptate consequuntur, veritatis neque, quidem modi, quod ducimus nisi velit debitis iste sint praesentium? Neque, molestiae?",
+      "category": "travel",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1393&q=80",
+      "date": "06.04.2021",
+      "id": 8
+    },
+    {
+      "title": "Title w/o image",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi facere pariatur, maxime commodi adipisci corrupti aperiam labore, veniam distinctio nesciunt, tenetur esse atque? Quo quisquam illum necessitatibus a at, doloribus velit dolore omnis labore similique, ipsam mollitia in accusantium eum sapiente facilis deleniti tenetur sunt. Fugit eius, blanditiis tenetur reprehenderit sunt, totam consequuntur optio ullam asperiores enim dignissimos magnam praesentium?",
+      "category": "other",
+      "image": "",
+      "date": "06.04.2021",
+      "id": 9
+    },
+    {
+      "title": "Style Title 2",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt accusamus saepe, laborum commodi quisquam nemo ab dolores dolorum quaerat ad. Consequuntur doloremque, velit earum nam reprehenderit, quidem aliquam sapiente quam alias nisi rem temporibus quis ducimus reiciendis eos, veritatis porro.",
+      "category": "style",
+      "image": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "date": "06.04.2021",
+      "id": 10
+    },
+    {
+      "title": "Travel with us",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis dicta amet voluptatibus dolorem blanditiis, ea voluptate cum fuga natus laboriosam. Earum voluptatibus magni corrupti laudantium dignissimos delectus ad soluta praesentium. Laborum molestias totam sed minima ipsam delectus iusto magnam ducimus architecto veritatis facilis odit voluptate provident, doloremque libero voluptas cupiditate, doloribus inventore magni repellendus saepe natus repellat quos! Eius, mollitia!",
+      "category": "travel",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "date": "06.04.2021",
+      "id": 11
+    },
+    {
+      "title": "Venice",
+      "description": "some word about Venice",
+      "category": "city",
+      "image": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=630&q=80",
+      "date": "06.04.2021",
+      "id": 13
+    },
+    {
+      "title": "Great game",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis, cum sed expedita quos voluptates rerum in, quibusdam fugiat voluptas cumque obcaecati quidem adipisci quo aspernatur iure, omnis fugit assumenda ipsum facilis? Laborum nam amet, cumque nisi molestias, eveniet numquam, aspernatur beatae magnam nesciunt dignissimos pariatur tempora odio provident explicabo itaque.",
+      "category": "sport",
+      "image": "",
+      "date": "06.04.2021",
+      "id": 14
+    }
+  ]
+}

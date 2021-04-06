@@ -45,7 +45,7 @@ const NoteCard = ({ note, handleNoteDelete }) => {
   return (
     <Card>
       <CardHeader
-        avatar={<Avatar children={avatars[category]} />}
+        avatar={avatars[category]}
         action={
           <IconButton onClick={() => handleNoteDelete(id)}>
             <Delete color='error' />
